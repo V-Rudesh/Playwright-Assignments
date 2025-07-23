@@ -1,3 +1,4 @@
+//enter the positve/negative/neutral number to check the category of this given number.
 let givenNumber =-2;
 
 function categorizeNumber(givenNumber){
