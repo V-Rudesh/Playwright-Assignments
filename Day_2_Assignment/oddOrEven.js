@@ -1,3 +1,4 @@
+//enter the number to check the givennumber is odd or even.
 let givenNumber = 251;
 
 function isOddOrEven(givenNumber){
